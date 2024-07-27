@@ -4,10 +4,15 @@ Bienvenue dans le dépôt de **MonBot Discord** ! Ce bot est conçu pour rendre 
 
 ## 📋 Fonctionnalités
 
-- 🎵 **Commandes de musique**: Jouez vos chansons préférées directement depuis Discord.
-- 🎮 **Jeux**: Participez à des mini-jeux amusants avec vos amis.
-- 📅 **Gestion d'événements**: Créez et gérez des événements pour votre serveur.
-- 🚀 **Outils d'administration**: Facilitez la gestion de votre serveur avec des commandes d'administration puissantes.
+- 💰 **cryptoprice**: Consultez les prix des cryptomonnaies.
+- ❓ **help**: Obtenez une liste des commandes disponibles.
+- 👑 **helpowner**: Affiche les commandes spécifiques pour les propriétaires du serveur.
+- 🌐 **ipinfo**: Récupérez des informations sur une adresse IP.
+- 🔗 **links**: Partagez des liens utiles.
+- 🔢 **numberinfo**: Fournit des informations sur un numéro de téléphone.
+- 📨 **sendembed**: Envoyez un message intégré personnalisé.
+- 💬 **sendmessage**: Envoyez un message simple.
+- 👤 **userinfo**: Obtenez des informations sur un utilisateur Discord.
 
 ## 📦 Installation
 
@@ -29,7 +34,7 @@ Pour installer MonBot, suivez ces étapes :
     ```
 
 4. Configurez votre fichier le `commands/config/config.py` avec vos informations Discord :
-    ```env
+    ```python
     TOKEN = "" # TOKEN BOT
     PREFIX = "&" # PREFIX BOT
     CREATOR_ID = 1203741606965149698 # YOUR ID DISCORD
@@ -49,4 +54,4 @@ py start.py
 ```
 
 ## 🙏 Remerciements
-Merci à tous ceux qui contribuent à ce projet. Est au bot de Redtiger pour cette inspiration ! 💖
+Merci à tous ceux qui contribuent à ce projet. Est au bot de [Redtiger](https://discord.gg/redtiger) pour cette inspiration ! 💖
