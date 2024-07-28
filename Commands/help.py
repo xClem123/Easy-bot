@@ -30,6 +30,9 @@ try:
                     embed.add_field(name=f"{PREFIX}ipinfo `[ip]`", value=f"Allows you to retrieve information from an IP.", inline=False)
                     embed.add_field(name=f"{PREFIX}numberinfo `[number]`", value=f"Allows you to retrieve information from a phone number.", inline=False)
                     embed.add_field(name=f"{PREFIX}cryptoprice `[CRYPTO]/[MONEY]`", value=f"Allows you to retrieve the price of a cryptocurrency.", inline=False)
+                    embed.add_field(name=f"{PREFIX}ban `[User]/[Raison]`", value=f"Allows you to ban a user.", inline=False)
+                    embed.add_field(name=f"{PREFIX}kick `[User]/[Raison]`", value=f"Allows you to kick a user.", inline=False)
+                    embed.add_field(name=f"{PREFIX}ping ", value=f"Allows you to see the ping of the bot.", inline=False)
                     await ctx.send(embed=embed)
             except Exception as e:
                     await ctx.send(error_message(e))
