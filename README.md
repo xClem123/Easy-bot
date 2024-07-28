@@ -13,7 +13,9 @@ Bienvenue dans le dépôt de **MonBot Discord** ! Ce bot est conçu pour rendre 
 - 📨 **sendembed**: Envoyez un message intégré personnalisé.
 - 💬 **sendmessage**: Envoyez un message simple.
 - 👤 **userinfo**: Obtenez des informations sur un utilisateur Discord.
-
+- 💻 **kick**: Permez de expulser un  utilisateur Discord.
+- 🧨 **ban**: Permez de bannir un  utilisateur Discord.
+- 🏓 **ping**: Permez de savoir la latense du bot.
 ## 📦 Installation
 
 Pour installer MonBot, suivez ces étapes :
