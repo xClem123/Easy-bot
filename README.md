@@ -54,4 +54,4 @@ py start.py
 ```
 
 ## 🙏 Remerciements
-Merci à tous ceux qui contribuent à ce projet. Est au bot de [Redtiger](https://discord.gg/redtiger) pour cette inspiration ! 💖
+Merci à tous ceux qui contribuent à ce projet.
