@@ -22,7 +22,7 @@ Pour installer MonBot, suivez ces étapes :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/beatch-service/Easy-bot.git
+    git clone https://github.com/xClem123/Easy-bot.git
     ```
 
 2. Accédez au répertoire du projet :
@@ -42,10 +42,10 @@ Pour installer MonBot, suivez ces étapes :
     CREATOR_ID = 1203741606965149698 # YOUR ID DISCORD
     EMBED_COLOR = "a80505"
 
-    discord_server = "discord.gg/server-boost"
+    discord_server = "discord.gg/datahub"
     website = "SOON"
     telegram = "SOON"
-    github_tool = "github.com/beatch-service"
+    github_tool = "github.com/xClem123"
     ```
 
 ## 🚀 Utilisation
